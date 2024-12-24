@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rishabh Baghel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://in.images.search.yahoo.com/images/view;_ylt=Awrx_maZ12pn2tocXzG9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2ZjYjI5NjM0NjAyMGJlYWZmMjJiNjRkM2QwMmZkNzY0BGdwb3MDMwRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bcoding%2Bgif%2Bfor%2Bgithub%26type%3DE210IN826G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D3&w=800&h=600&imgurl=verisoft.ai%2Fwp-content%2Fuploads%2F2022%2F05%2Fprogrammer-animation.gif&rurl=https%3A%2F%2Fverisoft.ai%2F&size=1006KB&p=animated+coding+gif+for+github&oid=fcb296346020beaff22b64d3d02fd764&fr2=piv-web&fr=mcafee&tt=VeriSoft+%7C+AI+Based+Automated+Testing+Solutions&b=0&ni=21&no=3&ts=&tab=organic&sigr=krUBnThbShtC&sigb=BHI0nUEj_ufw&sigi=_poBXNLKLuoQ&sigt=wIbcxNBXM1GA&.crumb=4IcAtw8lx08&fr=mcafee&fr2=piv-web&type=E210IN826G0">
+<img align="right" alt="coding" width="400" src="https://as2.ftcdn.net/v2/jpg/05/68/98/15/1000_F_568981524_2irG4VUSs06xbahAihTpkuSfxKkw8FqX.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishu1016&label=Profile%20views&color=0e75b6&style=flat" alt="rishu1016" /> </p>
 
